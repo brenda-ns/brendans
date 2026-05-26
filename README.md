@@ -33,14 +33,6 @@ Move your mouse to control the character, avoid ghosts, collect points, and surv
 - If you step on a **pink web**, you get stunned for a moment.
 - The **orange ghost** creates new points around itself.
 
-## Installation
-
-1. Clone the repository or download the files.
-2. Place all files in the same folder: `index.html`, `style.css`, `engine.js`.
-3. Open `index.html` in any modern browser.
-
-No external images or dependencies required – everything is drawn with Canvas.
-
 ## Credits
 
 - Developed by **Brenda NS**  
