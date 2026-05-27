@@ -37,8 +37,7 @@ Move your mouse to control the character, avoid ghosts, collect points, and surv
 
 ## Credits
 
-- Developed by **Brenda NS**  
-- Portfolio concept and game integration inspired by the creative work of **Bruno Moraes** ([GitHub](https://github.com/brunomoraesdigital)).  
+- Developed by **Bruno Moraes** ([GitHub](https://github.com/brunomoraesdigital)).  
 - AGPL-3.0 license – see footer for details.
 
 ## License
