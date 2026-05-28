@@ -40,7 +40,7 @@ Move your mouse to control the character, avoid ghosts, collect points, and surv
 - Developed by **Bruno Moraes** ([GitHub](https://github.com/brunomoraesdigital)).
 - Bruno, thank you so much for making this for me!
   - Y’all, Bruno absolutely cooked with this website 😭
-    The portfolio looks amazing, and the little Pac-Man style game in the background is honestly the coolest thing ever. It feels so unique and fun     without losing the professional vibe.
+  - The portfolio looks amazing, and the little Pac-Man style game in the background is honestly the coolest thing ever. It feels so unique and fun     without losing the professional vibe.
   - I wanna see who can get the highest score 👀
 
 
